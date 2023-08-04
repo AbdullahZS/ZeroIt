@@ -396,7 +396,7 @@ h6 {
   TODO:
   CHANGE IMAGE url TO THE IMAGE YOU WANT
   */
-  background: linear-gradient(45deg, rgba(29, 224, 153, 0.8), rgba(29, 200, 205, 0.8)), url("../img/Al_Qasba.jpg") center top no-repeat;
+  background: linear-gradient(45deg, rgba(29, 224, 153, 0.8), rgba(29, 200, 205, 0.8)), url("https://info.ehl.edu/hubfs/Blog-EHL-Insights/Blog-Header-EHL-Insights/AdobeStock_264542845.jpeg") center top no-repeat;
   background-size: cover;
   position: relative;
 }
